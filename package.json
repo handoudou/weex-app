@@ -1,5 +1,5 @@
 {
-  "name": "weex-app",
+  "name": "awesome-app",
   "version": "1.0.0",
   "description": "A weex project",
   "main": "index.js",
@@ -24,7 +24,7 @@
   "keywords": [
     "weex"
   ],
-  "author": "hupengfei <hupengfei@kingsoft.com>",
+  "author": "1078612125@qq.com",
   "license": "MIT",
   "dependencies": {
     "vue": "^2.5.11",
@@ -72,6 +72,7 @@
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.9.7",
     "webpack-merge": "^4.1.0",
+    "webpack-uglify-parallel": "^0.1.4",
     "weex-loader": "^0.6.7"
   },
   "optionalDependencies": {
