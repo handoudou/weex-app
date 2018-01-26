@@ -7,6 +7,7 @@ def common
     pod 'WeexPluginLoader'
     pod 'SDWebImage', '3.7.5'
     pod 'SocketRocket', '0.4.2'
+    pod 'WXDevtool',   '0.15.3', :configurations => ['Debug']
 end
 
 target 'WeexDemo' do

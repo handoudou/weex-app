@@ -6,5 +6,6 @@ npm-debug.log.*
 demo/*.code
 
 platforms/ios/Pods
+platforms/ios/build/*
 
 

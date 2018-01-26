@@ -12,6 +12,8 @@
 #import <AVFoundation/AVFoundation.h>
 #import "WeexSDKManager.h"
 
+#import <TBWXDevTool/TBWXDevTool.h>
+
 @interface AppDelegate ()
 @end
 
